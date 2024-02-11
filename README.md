@@ -7,3 +7,6 @@ See my other Repositorys for Limo OS Raspbian.
 ALL MY PROJECTS WON'T GET VERY OFTEN UPDATES
 
 I only Provide that their Work.
+
+# Link to Repo and apt link
+WARNING! THIS APT REPO DOESENT HAVE A GPT KEY!!!
