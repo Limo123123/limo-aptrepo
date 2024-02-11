@@ -1,0 +1,25 @@
+Codename: bullseye
+Date: Sun, 11 Feb 2024 13:35:00 UTC
+Architectures: arm64 armhf
+Components: main
+MD5Sum:
+ 3bb1426134838715577eeb2240172c85 1153 main/binary-arm64/Packages
+ afe7f978621c681b6038ea55e139e548 578 main/binary-arm64/Packages.gz
+ e89c28b1abf5bb6bbd1e9a3ebe9fe004 36 main/binary-arm64/Release
+ 3bb1426134838715577eeb2240172c85 1153 main/binary-armhf/Packages
+ afe7f978621c681b6038ea55e139e548 578 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+SHA1:
+ 1f46fa7aa2c173a182dbcbfc86733e426105796f 1153 main/binary-arm64/Packages
+ 2c552f6bef8244a6f7805bccb31d21586aefbff9 578 main/binary-arm64/Packages.gz
+ 26519fde445e683e74519b33601c3901c8a45e3b 36 main/binary-arm64/Release
+ 1f46fa7aa2c173a182dbcbfc86733e426105796f 1153 main/binary-armhf/Packages
+ 2c552f6bef8244a6f7805bccb31d21586aefbff9 578 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+SHA256:
+ 02eebed12d8b77ae035b79192fa1822f5e9e03dd189c0a22e1e0306e84badb79 1153 main/binary-arm64/Packages
+ 729c0ac5a498e349b668d915716ec16add50a2a2066f180f161e04d4f12ec006 578 main/binary-arm64/Packages.gz
+ 1d2a5a16922021225a06cc93f71f6e6008afdf7049fe22e22d7e98be73c59edf 36 main/binary-arm64/Release
+ 02eebed12d8b77ae035b79192fa1822f5e9e03dd189c0a22e1e0306e84badb79 1153 main/binary-armhf/Packages
+ 729c0ac5a498e349b668d915716ec16add50a2a2066f180f161e04d4f12ec006 578 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
