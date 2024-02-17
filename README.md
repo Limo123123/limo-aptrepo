@@ -9,4 +9,10 @@ ALL MY PROJECTS WON'T GET VERY OFTEN UPDATES
 I only Provide that their Work.
 
 # Link to Repo and apt link
-WARNING! THIS APT REPO DOESENT HAVE A GPT KEY!!!
+WARNING! THIS APT REPO DOESENT HAVE A GPT KEY!!! Please use [trusted=yes] because it without dont work
+
+Bookworm:
+deb [trusted=yes] https://raw.githubusercontent.com/Limo123123/aptrepo/main/ bookworm main 
+
+Bullseye:
+deb [trusted=yes] https://raw.githubusercontent.com/Limo123123/aptrepo/main/ bullseye main 
